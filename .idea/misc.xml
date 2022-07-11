@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Fernando/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_add_fill0_wght400_grad0_opsz48.xml" value="0.115" />
+        <entry key="..\:/Users/Fernando/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.1" />
         <entry key="..\:/Users/Fernando/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/Fernando/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/item_business_card.xml" value="0.1" />
       </map>
