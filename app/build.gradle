@@ -38,9 +38,12 @@ android {
 
 dependencies {
 
-    def room_version = "2.3.0"
-    def lifecycle_version = "2.2.0"
-    def activity_version = "1.2.3"
+     def room_version = "2.4.0"
+     def lifecycle_version = "2.2.0"
+     def activity_version = "1.2.3"
+    //def room_version = '2.4.0'
+   // def activityVersion = '1.4.0'
+   // def lifecycle_version = "2.2.0"
 
 
 
